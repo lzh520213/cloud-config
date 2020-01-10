@@ -1,1 +1,4 @@
-name: prod
+spring:
+  cloud:
+    config:
+      name: prodFile
