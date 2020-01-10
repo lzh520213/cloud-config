@@ -1,4 +1,4 @@
 spring:
   cloud:
     config:
-      name: test555555
+      name: test
